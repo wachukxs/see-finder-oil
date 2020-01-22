@@ -1,6 +1,6 @@
 # A little about Finder OIL Landing page
 
-Given the time factor, and the limited information I had about the company, I thought it best to come up with a single page website.
+Given the time factor, and the limited information I had about the company, I thought it best to come up with a single page website and use dummy texts.
 
 The site is divided into several sections, with each section containing enough information for any site visitor.
 I was careful not to use too much words and paragraph which would have been distracting, but just enough to inform anyone reading.
