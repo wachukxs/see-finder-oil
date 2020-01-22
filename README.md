@@ -7,6 +7,6 @@ I was careful not to use too much words and paragraph which would have been dist
 
 The content and info of each section naturally leads on to the next section.
 
-I have also created a dummy logo, with icons supporting every accessible platforms (broswer, iPhones, Android and Windows phone). This helps to increase brand recognition and SEO. The site is also a progrssive web app, which means site visitors can pin the site to their home screen like a native app.
+I have also created a dummy logo, with icons supporting every accessible platforms (Broswer, iPhones, Android and Windows phone) supporting every screen size. This helps to increase brand recognition and SEO. The site is also a progrssive web app, which means site visitors can pin the site to their home screen like a native app.
 
 Fast page loading.
