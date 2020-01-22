@@ -9,4 +9,8 @@ The content and info of each section naturally leads on to the next section.
 
 I have also created a dummy logo, with icons supporting every accessible platforms (Broswer, iPhones, Android and Windows phone) supporting every screen size. This helps to increase brand recognition and SEO. The site is also a progrssive web app, which means site visitors can pin the site to their home screen like a native app.
 
+Also notice how each section has related content. Like how the maps and the contact address are in the same section. And how action button in some sections leave to suceeding sections.
+
 Fast page loading.
+
+Have a peek of the site here https://nostalgic-edison-73fa35.netlify.com/
